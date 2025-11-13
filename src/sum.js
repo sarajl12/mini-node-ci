@@ -5,3 +5,4 @@ export function sum(a, b) {
  return a + b;
 }
 //test
+// console.log(sum(2, 3)); // 5
